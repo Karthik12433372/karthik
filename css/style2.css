@@ -1,0 +1,45 @@
+.k ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type:none;
+}
+.k ul li{
+    display:block;
+    color:blueviolet;
+    font-weight: bold;
+
+}
+li{
+    padding-left: 8px;
+    margin-bottom:8px;
+    font-size: 24px;
+}
+/* li:nth-child(odd)::marker{
+    content: "\2714\0022";
+} */
+ul{
+    float:right;
+    margin-right: 50%;
+}
+.fixed{
+    display:block;
+    float:left;
+    position:fixed;
+    right: 10px;
+    top:100px;
+}
+ul {
+    list-style-type: none;
+}
+
+ .g li{
+    display: list-item;
+    list-style-image: url("/images/icons8-microsoft-edge.svg");
+    padding-inline-start: 1ch;
+}
+
+
+
+
+
+
